@@ -1,1 +1,1 @@
-[{"appname":"M4Test","apkname":"M4Test.apk","versionName":"2.2","version":"4"}]
+[{"appname":"M4Test","apkname":"M4Test.apk","versionName":"2.3","version":"5"}]
